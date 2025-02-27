@@ -13,7 +13,7 @@
 
 </p>
 
-<img src="https://github.com/Inlayo/Inlayo.xyz/blob/main/ara768.png?raw=true" alt="ようこそいんらのスキンズへ！">
+<img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/hahaha.png?raw=true" alt="ようこそいんらのスキンズへ！">
 
 ---
 
