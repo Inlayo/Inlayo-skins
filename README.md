@@ -13,7 +13,7 @@
 
 </p>
 
-<img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/hahaha.png?raw=true" alt="ようこそいんらのスキンズへ！">
+<img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/hahaha.png" alt="ようこそいんらのスキンズへ！">
 
 ---
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Rafis%20HDDT%20(Inlayo%20ver.).osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Rafis%20HDDT%20(Inlayo%20ver.).jpg?raw=true" alt="Rafis HDDT (Inlayo ver.)">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Rafis%20HDDT%20(Inlayo%20ver.).jpg" alt="Rafis HDDT (Inlayo ver.)">
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/boop❔.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/boop❔.jpg?raw=true" alt="boop❔">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/boop❔.jpg" alt="boop❔">
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Default❔.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Default❔.jpg?raw=true" alt="Default❔">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Default❔.jpg" alt="Default❔">
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlafis.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Inlafis.jpg?raw=true" alt="Inlafis">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Inlafis.jpg" alt="Inlafis">
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlastia.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Inlastia.jpg?raw=true" alt="Inlastia">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Inlastia.jpg" alt="Inlastia">
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Jump.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Jump.jpg?raw=true" alt="Jump">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Jump.jpg" alt="Jump">
   </a>
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/maro.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/maro.jpg?raw=true" alt="maro">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/maro.jpg" alt="maro">
   </a>
 </p>
 
@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/ooh.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/ooh.jpg?raw=true" alt="ooh">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/ooh.jpg" alt="ooh">
   </a>
 </p>
 
@@ -101,7 +101,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Rafis+Inlayo.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Rafis+Inlayo.jpg?raw=true" alt="Rafis+Inlayo">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Rafis+Inlayo.jpg" alt="Rafis+Inlayo">
   </a>
 </p>
 
@@ -111,7 +111,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Rafis+Instafade.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Rafis+Instafade.jpg?raw=true" alt="Rafis+Instafade">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Rafis+Instafade.jpg" alt="Rafis+Instafade">
   </a>
 </p>
 
@@ -121,7 +121,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/rx.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/rx.jpg?raw=true" alt="rx">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/rx.jpg" alt="rx">
   </a>
 </p>
 
@@ -131,7 +131,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Seoul%20v11.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Seoul%20v11.jpg?raw=true" alt="Seoul v11">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Seoul%20v11.jpg" alt="Seoul v11">
   </a>
 </p>
 
@@ -141,7 +141,7 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Tippy.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Tippy.jpg?raw=true" alt="Tippy">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Tippy.jpg" alt="Tippy">
   </a>
 </p>
 
@@ -151,6 +151,6 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/WhiteCat.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/WhiteCat.jpg?raw=true" alt="WhiteCat">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/WhiteCat.jpg" alt="WhiteCat">
   </a>
 </p>
