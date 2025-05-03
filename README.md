@@ -1,4 +1,6 @@
 # Inlayo's skins
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inlayo.Inlayo-skins)
+
 ようこそいんらのスキンズへ！
 
 <p>
@@ -161,5 +163,6 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/old-skins">
+    not using these anymore
   </a>
 </p>
