@@ -157,7 +157,7 @@
 
 ---
 
-## [WhiteCat](https://github.com/Inlayo/old-skins)
+## [old-skins](https://github.com/Inlayo/old-skins)
 
 <p align="center">
   <a href="https://github.com/Inlayo/old-skins">
