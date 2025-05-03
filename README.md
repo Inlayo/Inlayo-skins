@@ -154,3 +154,12 @@
     <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/WhiteCat.jpg" alt="WhiteCat">
   </a>
 </p>
+
+---
+
+## [WhiteCat](https://github.com/Inlayo/old-skins)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/old-skins">
+  </a>
+</p>
