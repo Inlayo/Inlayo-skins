@@ -59,11 +59,11 @@
 
 ---
 
-## [Inlastia](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlastia.osk)
+## [Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlayo.osk)
 
 <p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlastia.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Inlastia.jpg" alt="Inlastia">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlayo.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Inlayo.jpg" alt="Inlayo">
   </a>
 </p>
 
