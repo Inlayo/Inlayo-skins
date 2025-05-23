@@ -67,6 +67,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlayo16.osk">16:10 ver.</a>
+</p>
+
 ---
 
 ## [Jump](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Jump.osk)
