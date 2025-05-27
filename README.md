@@ -29,6 +29,15 @@
 
 ---
 
+## [tk+Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/static/tk+Inlayo.osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/tk+Inlayo.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/tk+Inlayo.jpg" alt="tk+Inlayo">
+  </a>
+</p>
+
+---
 ## [boop❔](https://github.com/Inlayo/Inlayo-skins/raw/main/static/boop❔.osk)
 
 <p align="center">
