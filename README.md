@@ -1,21 +1,17 @@
 # Inlayo's skins
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inlayo.Inlayo-skins)
-
-ようこそいんらのスキンズへ！
 
 <p>
 
-**Links ❤︎**  
-[twitch](https://www.twitch.tv/inlayo) , 
-[twitter](https://twitter.com/Inlaosu) , 
-[discord](https://discord.gg/Tzg5j5mYkd) , 
+**Links ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inlayo.Inlayo-skins)**  
+[twitch](https://twitch.tv/inlayo) , 
+[twitter](https://x.com/Inlayo_osu) , 
+[youtube](https://youtube.com/@Inlayo_osu) , 
+[mutualify](https://mutualify.stanr.info/users/27692994) , 
 [akatsuki](https://akatsuki.gg/u/118213) , 
-[osu!Inlayo](https://osu.inla.kr/u/3) , 
-[osu!profile](https://osu.ppy.sh/users/27692994)
+[osu!Inlayo](https://inlayo.com/u/3) , 
+[osu!profile](https://osu.ppy.sh/u/Inlayo)
 
 </p>
-
-<img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/hahaha.png" alt="ようこそいんらのスキンズへ！">
 
 ---
 
@@ -179,3 +175,5 @@
     not using these anymore
   </a>
 </p>
+
+---
