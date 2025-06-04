@@ -4,7 +4,7 @@
 
 <p>
 
-**Links 🥱**
+## **Links 🥱**  
 [twitch](https://twitch.tv/inlayo) , 
 [twitter](https://x.com/Inlayo_osu) , 
 [youtube](https://youtube.com/@Inlayo_osu) , 
@@ -14,8 +14,6 @@
 [osu!profile](https://osu.ppy.sh/u/Inlayo)
 
 </p>
-
----
 
 ## [Rafis HDDT (Inlayo ver.)](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Rafis%20HDDT%20(Inlayo%20ver.).osk)
 
