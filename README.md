@@ -1,8 +1,10 @@
 # Inlayo's skins
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inlayo.Inlayo-skins)
+
 <p>
 
-**Links ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inlayo.Inlayo-skins)**  
+**Links 🥱**
 [twitch](https://twitch.tv/inlayo) , 
 [twitter](https://x.com/Inlayo_osu) , 
 [youtube](https://youtube.com/@Inlayo_osu) , 
