@@ -15,6 +15,8 @@
 
 </p>
 
+---
+
 ## [Rafis HDDT (Inlayo ver.)](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Rafis%20HDDT%20(Inlayo%20ver.).osk)
 
 <p align="center">
@@ -34,6 +36,17 @@
 </p>
 
 ---
+
+## [aristia (Inlayo ver.)](https://github.com/Inlayo/Inlayo-skins/raw/main/static/aristia%20(Inlayo%20ver.).osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/aristia%20(Inlayo%20ver.).osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/aristia%20(Inlayo%20ver.).jpg" alt="aristia (Inlayo ver.)">
+  </a>
+</p>
+
+---
+
 ## [boop❔](https://github.com/Inlayo/Inlayo-skins/raw/main/static/boop❔.osk)
 
 <p align="center">
@@ -60,20 +73,6 @@
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlafis.osk">
     <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Inlafis.jpg" alt="Inlafis">
   </a>
-</p>
-
----
-
-## [Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/static/aristia%20(Inlayo%20ver.).osk)
-
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/aristia%20(Inlayo%20ver.).osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/aristia%20(Inlayo%20ver.).jpg" alt="aristia (Inlayo ver.)">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlayo16.osk">16:10 ver.</a>
 </p>
 
 ---
