@@ -167,10 +167,10 @@
 
 ---
 
-## [old-skins](https://github.com/Inlayo/old-skins)
+## [old-skins](https://github.com/Inlayo/old-skins/tree/main/Skins)
 
 <p align="center">
-  <a href="https://github.com/Inlayo/old-skins">
+  <a href="https://github.com/Inlayo/old-skins/tree/main/Skins">
     not using these anymore
   </a>
 </p>
