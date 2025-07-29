@@ -9,7 +9,7 @@
 [twitter](https://x.com/Inlayo_osu), 
 [youtube](https://youtube.com/@Inlayo_osu), 
 [mutualify](https://mutualify.stanr.info/users/27692994), 
-[akatsuki](https://akatsuki.gg/u/118213), 
+[akatsuki](https://akatsuki.gg/u/118213?rx=1), 
 [osu!Inlayo](https://inlayo.com/u/3), 
 [osu!profile](https://osu.ppy.sh/u/Inlayo)
 
