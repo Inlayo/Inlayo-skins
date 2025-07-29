@@ -17,6 +17,16 @@
 
 ---
 
+## [Prawilosc vJP without followpoints (Inlayo ver.)](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Prawilosc%20vJP%20without%20followpoints%20(Inlayo%20ver.).osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Prawilosc%20vJP%20without%20followpoints%20(Inlayo%20ver.).osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Prawilosc%20vJP%20without%20followpoints%20(Inlayo%20ver.).jpg" alt="Prawilosc vJP without followpoints (Inlayo ver.)">
+  </a>
+</p>
+
+---
+
 ## [- aristia](https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20aristia.osk)
 
 <p align="center">
