@@ -17,6 +17,16 @@
 
 ---
 
+## [wpcoeqi](https://github.com/Inlayo/Inlayo-skins/raw/main/static/wpcoeqi.osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/wpcoeqi.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/wpcoeqi.jpg" alt="wpcoeqi">
+  </a>
+</p>
+
+---
+
 ## [Prawilosc vJP without followpoints (Inlayo ver.)](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Prawilosc%20vJP%20without%20followpoints%20(Inlayo%20ver.).osk)
 
 <p align="center">
