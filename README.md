@@ -17,6 +17,26 @@
 
 ---
 
+## [bakanyakanyaikakanyai](https://github.com/Inlayo/Inlayo-skins/raw/main/static/bakanyakanyaikakanyai.osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/bakanyakanyaikakanyai.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/bakanyakanyaikakanyai.jpg" alt="bakanyakanyaikakanyai">
+  </a>
+</p>
+
+---
+
+## [wpcoeqi](https://github.com/Inlayo/Inlayo-skins/raw/main/static/wpcoeqi.osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/wpcoeqi.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/wpcoeqi.jpg" alt="wpcoeqi">
+  </a>
+</p>
+
+---
+
 ## [wpcoeqi](https://github.com/Inlayo/Inlayo-skins/raw/main/static/wpcoeqi.osk)
 
 <p align="center">
@@ -62,6 +82,16 @@
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20Donus%20Taiga.osk">
     <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/-%20Donus%20Taiga.jpg" alt="- Donus Taiga">
+  </a>
+</p>
+
+---
+
+## [BubbleEdit](https://github.com/Inlayo/Inlayo-skins/raw/main/static/BubbleEdit.osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/BubbleEdit.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/BubbleEdit.jpg" alt="BubbleEdit">
   </a>
 </p>
 
