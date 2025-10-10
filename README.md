@@ -17,21 +17,21 @@
 
 ---
 
-## [bakanyakanyaikakanyai](https://github.com/Inlayo/Inlayo-skins/raw/main/static/bakanyakanyaikakanyai.osk)
+## [@Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/static/@Inlayo.osk)
 
 <p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/bakanyakanyaikakanyai.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/bakanyakanyaikakanyai.jpg" alt="bakanyakanyaikakanyai">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/@Inlayo.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/@Inlayo.jpg" alt="@Inlayo">
   </a>
 </p>
 
 ---
 
-## [wpcoeqi](https://github.com/Inlayo/Inlayo-skins/raw/main/static/wpcoeqi.osk)
+## [bakanyakanyaikakanyai](https://github.com/Inlayo/Inlayo-skins/raw/main/static/bakanyakanyaikakanyai.osk)
 
 <p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/wpcoeqi.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/wpcoeqi.jpg" alt="wpcoeqi">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/bakanyakanyaikakanyai.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/bakanyakanyaikakanyai.jpg" alt="bakanyakanyaikakanyai">
   </a>
 </p>
 
