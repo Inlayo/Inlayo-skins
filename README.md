@@ -17,6 +17,16 @@
 
 ---
 
+## [tk+Inlayo - vskf](https://github.com/Inlayo/Inlayo-skins/raw/main/static/tk+Inlayo%20-%20vskf.osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/tk+Inlayo%20-%20vskf.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/tk+Inlayo%20-%20vskf.jpg" alt="tk+Inlayo - vskf">
+  </a>
+</p>
+
+---
+
 ## [@Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/static/@Inlayo.osk)
 
 <p align="center">
