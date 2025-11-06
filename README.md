@@ -27,6 +27,16 @@
 
 ---
 
+## [- boop](https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20boop.osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20boop.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/-%20boop.jpg" alt="- boop">
+  </a>
+</p>
+
+---
+
 ## [@Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/static/@Inlayo.osk)
 
 <p align="center">
