@@ -47,6 +47,16 @@
 
 ---
 
+## [@Inlayo2default](https://github.com/Inlayo/Inlayo-skins/raw/main/static/@Inlayo2default.osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/@Inlayo2default.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/@Inlayo2default.jpg" alt="@Inlayo2default">
+  </a>
+</p>
+
+---
+
 ## [bakanyakanyaikakanyai](https://github.com/Inlayo/Inlayo-skins/raw/main/static/bakanyakanyaikakanyai.osk)
 
 <p align="center">
