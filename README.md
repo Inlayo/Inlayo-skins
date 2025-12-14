@@ -15,6 +15,16 @@
 
 ---
 
+## [aristia + Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/static/aristia%20+%20Inlayo.osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/aristia%20+%20Inlayo.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/aristia%20+%20Inlayo.jpg" alt="aristia + Inlayo">
+  </a>
+</p>
+
+---
+
 ## [Inlayo dt](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlayo%20dt.osk)
 
 <p align="center">
