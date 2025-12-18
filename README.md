@@ -75,11 +75,11 @@
 
 ---
 
-## [- default](https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20default.osk)
+## [Inlayo ez](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlayo%20ez.osk)
 
 <p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20default.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/-%20default.jpg" alt="- default">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlayo%20ez.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Inlayo%20ez.jpg" alt="Inlayo ez">
   </a>
 </p>
 
