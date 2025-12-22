@@ -115,6 +115,16 @@
 
 ---
 
+## [SameSkinButNoRingHitCirclesWeirdName.osk](https://github.com/Inlayo/Inlayo-skins/raw/main/static/SameSkinButNoRingHitCirclesWeirdName.osk)
+
+<p align="center">
+  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/SameSkinButNoRingHitCirclesWeirdName.osk">
+    <img src="https://github.com/Inlayo/Inlayo-skins/raw/main/static/SameSkinButNoRingHitCirclesWeirdName.jpg" alt="SameSkinButNoRingHitCirclesWeirdName">
+  </a>
+</p>
+
+---
+
 ## [# Inlayo.osk](https://github.com/Inlayo/Inlayo-skins/raw/main/static/nopicture/%23%20Inlayo.osk)
 
 <p align="center">
@@ -487,14 +497,6 @@
 
 <p align="center">
   <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/nopicture/Rafis%2BRX.osk"></a>
-</p>
-
----
-
-## [SameSkinButNoRingHitCirclesWeirdName.osk](https://github.com/Inlayo/Inlayo-skins/raw/main/static/nopicture/SameSkinButNoRingHitCirclesWeirdName.osk)
-
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/nopicture/SameSkinButNoRingHitCirclesWeirdName.osk"></a>
 </p>
 
 ---
