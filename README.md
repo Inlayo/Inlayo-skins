@@ -4,205 +4,185 @@
 
 <p>
 
-## **Links 🥱**  
-[twitch](https://twitch.tv/inlayo), 
-[twitter](https://x.com/Inlayo_osu), 
-[youtube](https://youtube.com/@Inlayo_osu), 
-[mutualify](https://mutualify.stanr.info/users/27692994), 
-[akatsuki](https://akatsuki.gg/u/118213), 
-[osu!Inlayo](https://inlayo.com/u/3), 
-[osu!profile](https://osu.ppy.sh/u/Inlayo)
+## **Links 🥱**
+[osu!](https://osu.ppy.sh/users/27692994), 
+[twitch](https://Inlayo.com/twitch), 
+[twitter](https://Inlayo.com/twitter), 
+[youtube](https://Inlayo.com/youtube), 
+[mutualify](https://mutualify.stanr.info/users/27692994)
 
 </p>
 
 ---
 
-## [- aristia](https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20aristia.osk)
+## [Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayo.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20aristia.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/-%20aristia.jpg" alt="- aristia">
-  </a>
-</p>
+[![Inlayo](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Inlayo.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayo.osk)
 
 ---
 
-## [- boop ✅](https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20boop%20✅.osk)
+## [aristia](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristia.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20boop%20✅.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/-%20boop%20✅.jpg" alt="- boop ✅">
-  </a>
-</p>
+[![aristia](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/aristia.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristia.osk)
 
 ---
 
-## [- Donus Taiga](https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20Donus%20Taiga.osk)
+## [aristia + Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristia%20+%20Inlayo.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20Donus%20Taiga.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/-%20Donus%20Taiga.jpg" alt="- Donus Taiga">
-  </a>
-</p>
+[![aristia + Inlayo](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/aristia%20+%20Inlayo.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristia%20+%20Inlayo.osk)
 
 ---
 
-## [- remastered](https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20remastered.osk)
+## [[NEW] Inlayo dt](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/%5BNEW%5D%20Inlayo%20dt.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/-%20remastered.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/-%20remastered.jpg" alt="- remastered">
-  </a>
-</p>
+[![[NEW] Inlayo dt](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/%5BNEW%5D%20Inlayo%20dt.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/%5BNEW%5D%20Inlayo%20dt.osk)
 
 ---
 
-## [Burakku Shipu HD (Kamui)](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Burakku%20Shipu%20HD%20(Kamui).osk)
+## [Inlayo dt](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayo%20dt.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Burakku%20Shipu%20HD%20(Kamui).osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Burakku%20Shipu%20HD%20(Kamui).jpg" alt="Burakku Shipu HD (Kamui)">
-  </a>
-</p>
+[![Inlayo dt](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Inlayo%20dt.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayo%20dt.osk)
 
 ---
 
-## [Cute Skin v2.1 edit](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Cute%20Skin%20v2.1%20edit.osk)
+## [Inlayo nm](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayo%20nm.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Cute%20Skin%20v2.1%20edit.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Cute%20Skin%20v2.1%20edit.jpg" alt="Cute Skin v2.1 edit">
-  </a>
-</p>
+[![Inlayo nm](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Inlayo%20nm.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayo%20nm.osk)
 
 ---
 
-## [Default❔](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Default❔.osk)
+## [Inlayo ez](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayo%20ez.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Default❔.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Default❔.jpg" alt="Default❔">
-  </a>
-</p>
+[![Inlayo ez](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Inlayo%20ez.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayo%20ez.osk)
 
 ---
 
-## [Fuu._.ka](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Fuu._.ka.osk)
+## [Inlayostafade](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayostafade.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Fuu._.ka.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Fuu._.ka.jpg" alt="Fuu._.ka">
-  </a>
-</p>
+[![Inlayostafade](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Inlayostafade.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayostafade.osk)
 
 ---
 
-## [Inlafis](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlafis.osk)
+## [instafade](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/instafade.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlafis.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Inlafis.jpg" alt="Inlafis">
-  </a>
-</p>
+[![instafade](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/instafade.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/instafade.osk)
 
 ---
 
-## [Inlayostafade](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlayostafade.osk)
+## [Inlafis](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlafis.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Inlayostafade.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Inlayostafade.jpg" alt="Inlayostafade">
-  </a>
-</p>
+[![Inlafis](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Inlafis.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlafis.osk)
 
 ---
 
-## [ooh](https://github.com/Inlayo/Inlayo-skins/raw/main/static/ooh.osk)
+## [BubbleEdit](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/BubbleEdit.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/ooh.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/ooh.jpg" alt="ooh">
-  </a>
-</p>
+[![BubbleEdit](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/BubbleEdit.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/BubbleEdit.osk)
 
 ---
 
-## [Rafis HDDT (Inlayo ver.)](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Rafis%20HDDT%20(Inlayo%20ver.).osk)
+## [Rafis HDDT (Inlayo ver.)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Rafis%20HDDT%20(Inlayo%20ver.).osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Rafis%20HDDT%20(Inlayo%20ver.).osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Rafis%20HDDT%20(Inlayo%20ver.).jpg" alt="Rafis HDDT (Inlayo ver.)">
-  </a>
-</p>
+[![Rafis HDDT (Inlayo ver.)](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Rafis%20HDDT%20(Inlayo%20ver.).jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Rafis%20HDDT%20(Inlayo%20ver.).osk)
 
 ---
 
-## [SameSkinButNoRingHitCirclesWeirdName](https://github.com/Inlayo/Inlayo-skins/raw/main/static/SameSkinButNoRingHitCirclesWeirdName.osk)
+## [bakanyakanyaikakanyai](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/bakanyakanyaikakanyai.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/SameSkinButNoRingHitCirclesWeirdName.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/SameSkinButNoRingHitCirclesWeirdName.jpg" alt="SameSkinButNoRingHitCirclesWeirdName">
-  </a>
-</p>
+[![bakanyakanyaikakanyai](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/bakanyakanyaikakanyai.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/bakanyakanyaikakanyai.osk)
 
 ---
 
-## [Seoul v11](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Seoul%20v11.osk)
+## [boop](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/boop.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Seoul%20v11.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Seoul%20v11.jpg" alt="Seoul v11">
-  </a>
-</p>
+[![boop](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/boop.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/boop.osk)
 
 ---
 
-## [Tippy](https://github.com/Inlayo/Inlayo-skins/raw/main/static/Tippy.osk)
+## [boop ✅](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/boop%20%E2%9C%85.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/Tippy.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/Tippy.jpg" alt="Tippy">
-  </a>
-</p>
+[![boop ✅](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/boop%20%E2%9C%85.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/boop%20%E2%9C%85.osk)
 
 ---
 
-## [tk+Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/static/tk+Inlayo.osk)
+## [re_owoTuna](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/re_owoTuna.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/tk+Inlayo.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/tk+Inlayo.jpg" alt="tk+Inlayo">
-  </a>
-</p>
+[![re_owoTuna](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/re_owoTuna.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/re_owoTuna.osk)
 
 ---
 
-## [WhiteCat](https://github.com/Inlayo/Inlayo-skins/raw/main/static/WhiteCat.osk)
+## [WhiteCat](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/WhiteCat.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/WhiteCat.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/WhiteCat.jpg" alt="WhiteCat">
-  </a>
-</p>
+[![WhiteCat](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/WhiteCat.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/WhiteCat.osk)
 
 ---
 
-## [👨‍🌾](https://github.com/Inlayo/Inlayo-skins/raw/main/static/👨‍🌾.osk)
+## [tk+Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/tk+Inlayo.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/Inlayo-skins/raw/main/static/👨‍🌾.osk">
-    <img src="https://github.com/Inlayo/Inlayo-skins/blob/main/static/👨‍🌾.jpg" alt="👨‍🌾">
-  </a>
-</p>
+[![tk+Inlayo](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/tk+Inlayo.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/tk+Inlayo.osk)
 
 ---
 
-## [old-skins](https://github.com/Inlayo/old-skins/tree/main/Skins)
+## [Tippy](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Tippy.osk)
 
-<p align="center">
-  <a href="https://github.com/Inlayo/old-skins/tree/main/Skins">
-    not using these anymore
-  </a>
-</p>
+[![Tippy](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Tippy.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Tippy.osk)
 
 ---
+
+## [Seoul v11](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Seoul%20v11.osk)
+
+[![Seoul v11](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Seoul%20v11.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Seoul%20v11.osk)
+
+---
+
+## [Burakku Shipu HD (Kamui)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Burakku%20Shipu%20HD%20(Kamui).osk)
+
+[![Burakku Shipu HD (Kamui)](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Burakku%20Shipu%20HD%20(Kamui).jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Burakku%20Shipu%20HD%20(Kamui).osk)
+
+---
+
+## [ooh](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/ooh.osk)
+
+[![ooh](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/ooh.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/ooh.osk)
+
+---
+
+## [Default❔](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Default%E2%9D%94.osk)
+
+[![Default❔](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Default%E2%9D%94.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Default%E2%9D%94.osk)
+
+---
+
+## [Cute Skin v2.1 edit](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Cute%20Skin%20v2.1%20edit.osk)
+
+[![Cute Skin v2.1 edit](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Cute%20Skin%20v2.1%20edit.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Cute%20Skin%20v2.1%20edit.osk)
+
+---
+
+## [Fuu._.ka](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Fuu._.ka.osk)
+
+[![Fuu._.ka](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Fuu._.ka.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Fuu._.ka.osk)
+
+---
+
+## [Donus Taiga](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Donus%20Taiga.osk)
+
+[![Donus Taiga](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/Donus%20Taiga.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Donus%20Taiga.osk)
+
+---
+
+## [remastered](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/remastered.osk)
+
+[![remastered](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/remastered.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/remastered.osk)
+
+---
+
+## [SameSkinButNoRingHitCirclesWeirdName](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/SameSkinButNoRingHitCirclesWeirdName.osk)
+
+[![SameSkinButNoRingHitCirclesWeirdName](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/SameSkinButNoRingHitCirclesWeirdName.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/SameSkinButNoRingHitCirclesWeirdName.osk)
+
+---
+
+## [👨‍🌾](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/%F0%9F%91%A8%E2%80%8D%F0%9F%8C%BE.osk)
+
+[![👨‍🌾](https://github.com/Inlayo/Inlayo-skins/blob/main/skins/%F0%9F%91%A8%E2%80%8D%F0%9F%8C%BE.jpg?raw=true)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/%F0%9F%91%A8%E2%80%8D%F0%9F%8C%BE.osk)
