@@ -74,15 +74,15 @@
 
 ---
 
-## [bakanyakanyaikakanyai](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/bakanyakanyaikakanyai.osk)
+## [- bakanyakanyaikakanyai](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/-%20bakanyakanyaikakanyai.osk)
 
-[![bakanyakanyaikakanyai](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/bakanyakanyaikakanyai.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/bakanyakanyaikakanyai.osk)
+[![bakanyakanyaikakanyai](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/-%20bakanyakanyaikakanyai.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/-%20bakanyakanyaikakanyai.osk)
 
 ---
 
-## [boop](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/boop.osk)
+## [- boop](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/-%20boop.osk)
 
-[![boop](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/boop.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/boop.osk)
+[![boop](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/-%20boop.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/-%20boop.osk)
 
 ---
 
@@ -146,21 +146,21 @@
 
 ---
 
-## [Donus Taiga](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Donus%20Taiga.osk)
+## [- Donus Taiga](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/-%20Donus%20Taiga.osk)
 
-[![Donus Taiga](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/Donus%20Taiga.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Donus%20Taiga.osk)
-
----
-
-## [remastered](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/remastered.osk)
-
-[![remastered](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/remastered.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/remastered.osk)
+[![Donus Taiga](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/-%20Donus%20Taiga.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/-%20Donus%20Taiga.osk)
 
 ---
 
-## [aristia](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristia.osk)
+## [- remastered](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/-%20remastered.osk)
 
-[![aristia](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/aristia.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristia.osk)
+[![remastered](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/-%20remastered.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/-%20remastered.osk)
+
+---
+
+## [- aristia](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/-%20aristia.osk)
+
+[![aristia](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/-%20aristia.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/-%20aristia.osk)
 
 ---
 
