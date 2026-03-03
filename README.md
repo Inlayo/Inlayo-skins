@@ -14,6 +14,12 @@
 
 ---
 
+## [Potofu remake](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Potofu%20remake.osk)
+
+[![Potofu remake](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/Potofu%20remake.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Potofu%20remake.osk)
+
+---
+
 ## [aristia + Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristia%20+%20Inlayo.osk)
 
 [![aristia + Inlayo](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/aristia%20%2B%20Inlayo.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristia%20+%20Inlayo.osk)
