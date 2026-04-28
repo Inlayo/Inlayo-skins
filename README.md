@@ -32,9 +32,15 @@
 
 ---
 
-## [Potofu remake](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Potofu%20remake.osk)
+## [aristiaR](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristiaR.osk)
 
-[![Potofu remake](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/Potofu%20remake.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Potofu%20remake.osk)
+[![aristiaR](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/aristiaR.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristiaR.osk)
+
+---
+
+## [aristiaB](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristiaB.osk)
+
+[![aristiaB](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/aristiaB.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/aristiaB.osk)
 
 ---
 
@@ -47,6 +53,12 @@
 ## [[NEW] Inlayo dt](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/%5BNEW%5D%20Inlayo%20dt.osk)
 
 [![[NEW] Inlayo dt](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/%5BNEW%5D%20Inlayo%20dt.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/%5BNEW%5D%20Inlayo%20dt.osk)
+
+---
+
+## [Potofu remake](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Potofu%20remake.osk)
+
+[![Potofu remake](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/Potofu%20remake.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Potofu%20remake.osk)
 
 ---
 
