@@ -8,9 +8,9 @@
 
 ---
 
-## [Inlayo](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayo.osk)
+## [InlayoS](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/InlayoS.osk)
 
-[![Inlayo](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/Inlayo.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/Inlayo.osk)
+[![InlayoS](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/Inlayo.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/InlayoS.osk)
 
 ---
 
