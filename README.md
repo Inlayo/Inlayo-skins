@@ -10,7 +10,7 @@
 
 ## [InlayoS](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/InlayoS.osk)
 
-[![InlayoS](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/Inlayo.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/InlayoS.osk)
+[![InlayoS](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/InlayoS.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/InlayoS.osk)
 
 ---
 
