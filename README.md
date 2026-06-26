@@ -20,6 +20,13 @@
 
 ---
 
+## [InlayoU](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/InlayoU.osk)
+
+[![InlayoU](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/InlayoU.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/InlayoU.osk)
+
+---
+
+
 ## [xishu](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/xishu.osk)
 
 [![Inlayo fm](https://raw.githubusercontent.com/Inlayo/Inlayo-skins/main/skins/xishu.jpg)](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/xishu.osk)
