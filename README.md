@@ -4,6 +4,8 @@
 
 ## **Links 🥱**
 
+[Current skins](https://filebrowser.inlayo.com/share/lW6nhlhK)
+
 [Inlayo.com](https://inlayo.com/) (like linktree)
 
 ---
