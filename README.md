@@ -1,6 +1,6 @@
 ## [Inlayo](https://inlayo.com/)'s Skins ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Inlayo.Inlayo-skins)
 
-Current Skins (new): [google drive](https://drive.google.com/drive/folders/1ruo7AozIxm9ZkxMqHZwSp1T9ia9Lqxfy) [filebrowser](https://filebrowser.inlayo.com/share/lW6nhlhK)
+Current Skins (new): [google drive](https://drive.google.com/drive/folders/1ruo7AozIxm9ZkxMqHZwSp1T9ia9Lqxfy) [filebrowser](https://f.inlayo.com/public/share/jC8GJXrbrQ7BCq-UnsAwPQ)
 
 ## [InlayoS](https://github.com/Inlayo/Inlayo-skins/raw/main/skins/InlayoS.osk)
 
